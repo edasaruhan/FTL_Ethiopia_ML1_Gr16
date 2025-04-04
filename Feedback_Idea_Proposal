@@ -1,0 +1,17 @@
+Feedback on Crop Yield Prediction Using Machine Learning
+
+Thank you for presenting a clear, relevant, and socially impactful project proposal — your goal of enhancing agricultural productivity through crop yield prediction aligns directly with SDG 2: Zero Hunger. Your approach addresses a critical issue in food systems, especially for regions like Ethiopia, where climate variability and limited access to forecasting tools hinder agricultural planning. The use of environmental and farming data, combined with machine learning models such as Random Forest, XGBoost, and Neural Networks, provides a solid and practical foundation for accurate predictions.
+
+To elevate the project’s novelty and real-world impact, you may consider the following:
+
+    Geospatial Integration: Incorporate satellite-based vegetation indices such as NDVI or EVI, which can improve model performance by reflecting real-time crop health and stress conditions. Platforms like Google Earth Engine or Sentinel-2 can be valuable sources.
+
+    Multi-Stage Modeling: Use a two-step model approach — one model to classify land suitability or crop type, and another to predict yield — to make predictions more context-specific and scalable across different regions or crops.
+
+    Model Explainability: Add interpretability tools such as SHAP values or feature importance plots to help farmers and policymakers understand why a prediction is made, not just what it is. This builds trust and enhances adoption.
+
+    User-Centered Design: For the web/mobile application, consider offline capability, local language interfaces, and simple input formats (e.g., dropdowns or satellite-inferred farm coordinates) to ensure usability for farmers with low digital literacy.
+
+    Climate Resilience Insights: Go beyond prediction by integrating adaptive recommendations, such as planting date shifts, seed variety suggestions, or irrigation strategies based on predicted yield under changing climate conditions.
+
+Overall, this is a promising project that uses machine learning not just as a tool for prediction, but as a step toward empowering farmers, optimizing resource use, and building food system resilience.
